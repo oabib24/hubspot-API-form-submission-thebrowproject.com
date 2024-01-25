@@ -5,7 +5,7 @@ $(".sie-contact-form_view-1_1").click(function () {
     "timeout": 0,
     "headers": {
       "Content-Type": "application/json",
-      "Authorization": "Bearer pat-na1-67d5cb30-f8a6-4b40-a2be-fdad83244875"
+      "Authorization": "Bearer token"
     },
     "data": JSON.stringify({
       "fields": [
